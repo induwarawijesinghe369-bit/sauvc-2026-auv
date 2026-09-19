@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / logs (local only)
+data/
+logs/
+*.csv
+*.log
+
+# Sensor calibration outputs (local only)
+calibration.json
+calibration.yaml
+
+# CAD binaries — kept in the Diyakawa team repo, not duplicated here
+*.SLDPRT
+*.SLDASM
+*.sldprt
+*.sldasm
+*.step
+*.stp
+
+# Arduino / ESP32
+*.bin
+*.elf
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
