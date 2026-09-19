@@ -66,13 +66,6 @@ Travel to Singapore was not possible for the team in 2026, so the competition wa
 
 ---
 
-## Link
-
-The 30-second video is available here:
-
-📹 **Watch the video** — *(link to be added)*
-
----
 
 ## Why this matters for the project
 
